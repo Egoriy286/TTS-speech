@@ -1,0 +1,18 @@
+{
+  "Qwen3-TTS-1.7B-Base": {
+    "model.safetensors": 3857413744,
+    "speech_tokenizer/model.safetensors": 682293092
+  },
+  "VoxCPM2": {
+    "model.safetensors": 4580080592,
+    "audiovae.pth": 376951122
+  },
+  "CosyVoice3": {
+    "CosyVoice-BlankEN/model.safetensors": 988097824,
+    "campplus.onnx": 28303423,
+    "flow.pt": 1329116148,
+    "hift.pt": 83202622,
+    "llm.pt": 2024669519,
+    "speech_tokenizer_v3.onnx": 969451503
+  }
+}

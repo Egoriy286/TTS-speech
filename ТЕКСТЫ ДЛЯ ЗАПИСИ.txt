@@ -1,0 +1,44 @@
+ТЕКСТЫ ДЛЯ ЗАПИСИ ГОЛОСА
+
+Каждый абзац — отдельный дубль до 30 секунд. Читайте привычным голосом; расшифровка должна точно совпадать с произнесённым.
+
+English
+
+Объяснение идеи
+Hi! Today I'm working on a new project, and I'd like to explain the main idea clearly. Let's take a simple example, look at what changes, and see why the result makes sense.
+
+Разговорный
+I usually start my morning with a cup of tea and a short walk. Later, I check my notes, answer a few messages, and get back to work. What are your plans for tomorrow?
+
+MsFEM — часть 1
+Imagine water moving through a piece of rock. Some regions let it pass easily, while others slow it down. These tiny differences can change the behavior of the whole system.
+
+MsFEM — часть 2
+A very fine mesh can describe those details, but solving a large problem on that mesh may be expensive. The multiscale finite element method uses a different strategy for the global calculation.
+
+MsFEM — часть 3
+We divide the domain into larger elements. Inside each one, we solve local problems on a fine mesh. Their solutions form special basis functions that reflect the material's small scale structure.
+
+MsFEM — часть 4
+We then use these basis functions to assemble a smaller global system on the coarse mesh. This can reduce the global computational cost, while keeping important information from the local material structure.
+
+Russian
+
+Объяснение идеи
+Привет! Сегодня я работаю над новым проектом и хочу понятно объяснить главную идею. Давайте возьмём простой пример, посмотрим, что меняется, и разберёмся, почему получается именно такой результат.
+
+Разговорный
+Обычно я начинаю утро с чашки чая и небольшой прогулки. Потом просматриваю свои заметки, отвечаю на несколько сообщений и возвращаюсь к работе. А какие у тебя планы на завтра?
+
+MsFEM — часть 1
+Представьте, как вода проходит через кусок горной породы. Одни участки легко пропускают поток, а другие его замедляют. Эти небольшие различия могут менять поведение всей системы.
+
+MsFEM — часть 2
+Очень мелкая сетка позволяет описать такие детали, но решение большой задачи на этой сетке может стоить дорого. Многомасштабный метод конечных элементов предлагает другой подход к глобальному расчёту.
+
+MsFEM — часть 3
+Мы делим область на крупные элементы. Внутри каждого из них решаем локальные задачи на мелкой сетке. Полученные решения образуют специальные базисные функции, которые учитывают мелкую структуру материала.
+
+MsFEM — часть 4
+Затем с помощью этих базисных функций мы собираем меньшую глобальную систему на крупной сетке. Это позволяет уменьшить стоимость глобального расчёта и сохранить важную информацию о локальной структуре материала.
+
